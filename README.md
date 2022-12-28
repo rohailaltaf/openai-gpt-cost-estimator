@@ -70,3 +70,6 @@ console.log(result)
 }
 */
 ```
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/rohail_altaf.svg?style=social)](https://twitter.com/rohail_altaf) 
